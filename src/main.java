@@ -6,6 +6,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
+import java.util.Random;
 
 /*
  * Copyright (C) 2014 Tim Tepatti
@@ -31,8 +32,6 @@ import java.util.ArrayList;
  * I really don't care what you do with this, I made it for fun.
  * Feel free to modify/redistribute/everything GPLv3 says.
 */
-
-import java.util.Random;
 
 public class main {
     public static void main(String args[]) throws IOException {
