@@ -13,10 +13,6 @@ Simple! It will generate a random Hackathon Hackers-esque phrase each time you r
 
 This is licensed under GPLv3, because I'm a nice guy like that :^)
 
-<h3>What's your favorite color?</h3>
-
-Red :^)
-
 <h3>Why do you use that stupid emoticon?</h3>
 
 :^)
